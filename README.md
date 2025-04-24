@@ -1,14 +1,14 @@
 
-# 📊 Maven Analytics Final Project — Store Sales Time Series Analysis
+#  Maven Analytics Final Project — Store Sales Time Series Analysis
 
 ## Overview
 
 This repository contains my final project from the [Maven Analytics Data Analysis with Python & Pandas](https://mavenanalytics.io/project/31610) course. The project demonstrates a comprehensive data analysis pipeline, including data cleaning, exploration, and visualization using Python libraries such as **Pandas**, **Matplotlib**, and **Seaborn**.
 
-🔗 **View the full project on my Maven Analytics Portfolio:**  
-👉 [Maven Analytics Project Showcase](https://mavenanalytics.io/project/31610)
+ **View the full project on my Maven Analytics Portfolio:**  
+[Maven Analytics Project Showcase](https://mavenanalytics.io/project/31610)
 
-## 🛠 Tools & Libraries Used
+## Tools & Libraries Used
 
 - **Python 3**
 - **Jupyter Notebook**
@@ -22,7 +22,7 @@ This repository contains my final project from the [Maven Analytics Data Analysi
 .
 ├── final_project.ipynb       # Main notebook with full analysis
 ├── README.md                 # Project documentation
-├── images/                   # (Optional) Plots exported from notebook
+├── images/                   # plots
 ```
 
 ## 🧾 Dataset
@@ -36,7 +36,7 @@ The dataset used in this project is from the Kaggle competition: [Store Sales - 
 - Visualize findings using effective and interpretable plots.
 - Summarize insights that can inform business decisions.
 
-## 🔍 Key Analysis Highlights
+## Key Analysis Highlights
 
 - Loaded and inspected multiple datasets (e.g., sales, products, customers).
 - Cleaned missing data and standardized column names.
@@ -47,7 +47,7 @@ The dataset used in this project is from the Kaggle competition: [Store Sales - 
   - Revenue trends over time
   - Customer segmentation insights
 
-## 💡 Key Insights
+## Key Insights
 
 - Certain products consistently outperform others across all quarters.
 - Revenue peaks in specific periods, aligning with seasonal promotions.
